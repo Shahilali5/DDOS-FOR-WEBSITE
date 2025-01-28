@@ -29,7 +29,7 @@
 
 ➢ 𝘾𝙊𝙈𝙈𝘼𝙉𝘿 ➦
 
-➢ 𝘾𝙇𝙊𝙉𝙀 𝙍𝙀𝙋𝙊 𝙐𝙎𝙄𝙉𝙂 - git clone https://github.com/UNEMPLOYEDHACKER/UNPLY-DDOS
+➢ 𝘾𝙇𝙊𝙉𝙀 𝙍𝙀𝙋𝙊 𝙐𝙎𝙄𝙉𝙂 - git clone https://github.com/Shahilali5/DDOS-FOR-WEBSITE/
 
 ➢ 𝘾𝙃𝘼𝙉𝙂𝙀 𝘿𝙄𝙍𝙀𝘾𝙏𝙊𝙍𝙔 - cd UNPLY-DDOS
 
@@ -52,7 +52,7 @@
  ❷ - crash URL GET/POST
 𝙀𝙓 - crash http://testfire.net/ get
 
-➢ 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 - [𝙎𝙐𝘿𝙊 𝙎𝙄𝙍](https://t.me/II_SUDO_II)
+➢ 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 - [𝙎𝙐𝘿𝙊 𝙎𝙄𝙍](https://t.me/SHAHIL440)
 
        ╔═════════════════╗
        ║    𝙁𝙊𝙐𝙉𝘿 𝙐𝙎𝙀      ║
