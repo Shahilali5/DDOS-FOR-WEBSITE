@@ -31,7 +31,7 @@
 
 ➢ 𝘾𝙇𝙊𝙉𝙀 𝙍𝙀𝙋𝙊 𝙐𝙎𝙄𝙉𝙂 - git clone https://github.com/Shahilali5/DDOS-FOR-WEBSITE/
 
-➢ 𝘾𝙃𝘼𝙉𝙂𝙀 𝘿𝙄𝙍𝙀𝘾𝙏𝙊𝙍𝙔 - cd UNPLY-DDOS
+➢ 𝘾𝙃𝘼𝙉𝙂𝙀 𝘿𝙄𝙍𝙀𝘾𝙏𝙊𝙍𝙔 - cd DDOS-FOR-WEBSITE
 
 ➢𝙄𝙉𝙎𝙏𝘼𝙇𝙇 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝘿 𝙋𝘼𝘾𝙆𝘼𝙂𝙀𝙎 - pip install -r requirements.txt
 
