@@ -84,7 +84,7 @@ def ascii_vro():
     clear()
 
 def si():
-    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mUNPLY-DDOS \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to UNPLY-DDOS PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: UNEMPLOYEDHACKER\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mENJOY ')
+    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mUNPLY-DDOS \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to UNPLY-DDOS PN! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: SHAHILHACKER\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mENJOY ')
     print("")
 
 def tools():
@@ -126,7 +126,7 @@ def rules():
                 \x1b[38;2;0;212;14m╔═══════════════╩═══════════════╩═══════════════╗
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m2. Do not attack .gov/.gob/.edu/.mil domains  \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m4. Only attack stress testing servers         \x1b[38;2;0;212;14m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m5. FOUND US ON TG-@FALCON_SECURITY                       \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m5. FOUND US ON TG-@SHAHIL440                       \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m6. We made this too only for educational purpose       \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m7. We are not responsible to any harm           \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m╚═══════════════════════════════════════════════╝
@@ -213,7 +213,7 @@ def amp_games():
 
 
 def menu():
-    sys.stdout.write(f"         \x1b]2;UNPLY-DDOS V1 --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
+    sys.stdout.write(f"         \x1b]2;WEBSITE-DDOS V1 --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
     clear()
     print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mUNPLY-DDOS \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to UNPLY-DDOS V1 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: UNEMPLOYEDHACKER\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mENJOY ')
     print("")
